@@ -1,6 +1,5 @@
 Reproducible-Research-Assignment-1
 
-Reproducible-Research Assignment 1
 
 Loading and preprocessing the data
 
